@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Âm",
+  "description": "Xem lịch âm dương, nhắc nhở sự kiện và đồng bộ với lịch cá nhân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
